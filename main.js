@@ -4,7 +4,7 @@ let nombre1 = "Juan";
 let nombre2 = 'Pedro';
 let nombre3 = `Maria`;
 
-// let frase = "Mi lenguaje favorito es "Javascript"."
+//
 
 // let frase = `Lista de compras:
 // * Aceite
@@ -27,4 +27,14 @@ let saludo = 'Hola Mundo!';
 saludo[0]='h';
 console.log(saludo[0]);
 
-CAMBIANDO MAYUSCULAS Y MINUSCULAS
+//Cambiando mayúsculas a minúsculas
+console.log(saludo.toLowerCase());
+.
+console.log(saludo[0].toLowerCase());
+
+let frase = 'Mi lenguaje favorito es "Javascript".'
+// console.log(frase.indexOf('Mi'));
+// console.log(frase.indexOf('lenguaje'));
+// console.log(frase.indexOf('favorito'));
+console.log(frase.indexOf('es'));
+// console.log(frase.indexOf('Javascript'));
