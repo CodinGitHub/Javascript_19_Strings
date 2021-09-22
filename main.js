@@ -63,5 +63,5 @@ console.log(frase.endsWith('programacion'));
 
 let lenguaje = 'Javascript';
 console.log(lenguaje.substring(2,5));
-console.log(lenguaje.substr(-5,2));
-console.log(lenguaje.slice(-5m));
+console.log(lenguaje.substr(-5, 4));
+console.log(lenguaje.slice(-5,-3));
