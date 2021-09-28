@@ -58,6 +58,6 @@ let lenguaje = ' Javascript ';
 console.log(lenguaje.substring(2,4));
 console.log(lenguaje.substr(2,4));
 
-//trim y repeat
+//trim() y repeat()
 
 console.log(lenguaje.repeat(10));
